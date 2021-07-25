@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @huseyindeniz
 - 👀 I’m interested in enterprise application development and robotics
-- 🌱 I’m currently learning dapr
+- 🌱 I’m currently learning dapr and webgl2
 - 💞️ I’m looking to collaborate on dotnet core, python, ros/ros2, pytorch, react, react native projects
 - 📫 How to reach me https://linkedin.com/in/huseyindenizkivrak/en-us
 
