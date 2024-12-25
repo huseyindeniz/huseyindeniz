@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @huseyindeniz
 - 👀 I’m interested in enterprise application development, blockchain and robotics
-- 🌱 I’m currently learning phaserjs, unreal engine, solidity, k8s, terraform, helm, argocd
+- 🌱 I’m currently advancing my skills in GitOps (Kubernetes, Terraform, Helm, ArgoCD), blockchain development (Solidity), game development (PhaserJS), and AI/ML development (PyTorch).
 - 💞️ I’m looking to collaborate on nft/blockchain, dotnet core, python, ros/ros2, pytorch, react, react native projects
 - 📫 How to reach me https://linkedin.com/in/huseyindenizkivrak/en-us
 - 🔗 My E-Portfolio: https://huseyindeniz.net
